@@ -152,8 +152,7 @@ int main(){
 
     }
 
-    clog<< "\n\nPress ENTER to close";
-    cin.clear();
-    cin.sync();
+    cout<<flush<< "\n\nPress ENTER to close";
+    cin.ignore();
     cin.get();
 }

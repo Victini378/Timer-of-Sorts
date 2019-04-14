@@ -1,6 +1,8 @@
 using namespace std;
 using namespace std::chrono;
 
+#include "pch.hpp"
+
 #include "fillvectors.hpp"
 #include "swap.hpp"
 #include "sort/countingsort.hpp"

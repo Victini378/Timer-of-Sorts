@@ -1,10 +1,10 @@
-#include "pch.h"
+#include "pch.hpp"
 #include "main.hpp"
 
 int main(){
 	int n, r1, r2;
 	bool slowSort = false;
-	
+
 	cout<< "Insert element number of vector: ";
 	cin>>n;
 	while(n<1){

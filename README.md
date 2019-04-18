@@ -5,4 +5,4 @@ Study on the **parallel std::sort** algorithm.
 
 **std::sort** is a variant of the **Intro Sort**.
 
-Use Quick Sort, Heap Sort and Insertion Sort
+Use **Quick Sort**, **Heap Sort** and **Insertion Sort**
